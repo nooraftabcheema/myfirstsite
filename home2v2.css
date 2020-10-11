@@ -1,0 +1,213 @@
+.white{
+    color: white;
+}
+.color{
+  color:d5a770
+}
+.bgWhite{
+    background-color: white;
+}
+.bgGrey{
+    background-color: #eeeeee;
+}
+#menuBar{
+    background-color: black; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#navBar-Title{
+    font-size: 36px!important;
+}
+li>a{
+    color: white!important; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+    font-weight: 500px;
+    padding-left: 20px!important;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+.icons{
+    padding: 8px;
+    font-size: 20px;
+}
+
+
+
+div.carousel-caption>p{
+    color: white;
+    background-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+div.carousel-caption>h3{
+    color: white;
+    background-color:  rgba(0, 0, 0, 0.7);
+    margin-top: -33px;
+    margin-left: 23%;
+    margin-right: 23%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+div.carousel-caption>button{
+    padding: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-top: -30px;
+}
+.featured-art {
+    background-color:#eeeeee;
+
+    padding-top: 5%;
+ 
+    align-content: center;
+    height: 28vw;
+    min-height:500px ;
+  }
+  .featured-art h2,
+  h3 {
+    font-weight: bold;
+    text-align: center;
+    
+  }
+
+  .liner {
+    background-color: #d5a770;
+    height: 80px;
+    width: 2px;
+    position: absolute;
+    margin-top: -40px;
+    left: 50%;
+}
+
+.darkShadow{
+    box-shadow: 10px 10px 100px lightgray;
+
+}
+ 
+.paddindBottom{
+
+  padding-bottom:3% ;
+}
+
+/*mini-frame*/
+.mini-frame {
+    padding: 5px;
+    border: 1px solid #021a40;
+    background-color: transparent;
+  }
+  
+  .category-section {
+    padding-top: 6%;
+    padding-left: 5%;
+    padding-right: 3%;
+    height: 50vw;
+  }
+  .category-section h1 {
+ 
+    width: 80%;
+    font-weight: bold;
+  }
+
+  .frame-container { 
+    height: 20vw;
+    width: 20vw;
+  }
+  /*main-frame*/
+  .frame {
+    position: relative;
+    width: 100%;
+    padding-bottom: 82.5%;
+    background: black;
+    box-shadow: 0 10px 7px -5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .mat {
+    position: absolute;
+    background: white;
+    top: 3.0303%;
+    bottom: 3.0303%;
+    left: 2.5%;
+    right: 2.5%;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5) inset;
+  }
+  
+  .art {
+    position: absolute;
+    top: 16.129%;
+    bottom: 16.129%;
+    left: 13.158%;
+    right: 13.158%;
+  }
+  .art img {
+    width: 100%;
+  }
+  
+  .art:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5) inset;
+  }
+  
+
+.centerHeadingofSections{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 70px;
+
+}
+.collectionCardsRow{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.smallText{
+    font-size: 14px;
+    margin-top:-8px ;
+}
+
+#footer {
+    background: #303036;
+    color: #d3d3d3;
+    height: 400px;
+    position: relative;
+    margin-top:100px;
+}
+
+.footer .footer-content {
+    border: 1px solid darkgoldenrod;
+    background-color: black;
+    padding-top: 100px;
+    height: 400px;
+    color: white;
+    text-align:center;
+}
+
+    .footer .footer-content .footer-section {
+        padding: 25px;
+        border: 1px solid darkgoldenrod;
+    }
+
+.footer .footer-bottom {
+    background: #343a40;
+    color: grey;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+}
+
